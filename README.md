@@ -3,7 +3,7 @@
 
 This repo contains code used to analyze New York City Uber and Taxi rides from April to June of 2014 and 2015 to try to determine the effect of Uber's rise on congestion in NYC.
 
-To install any necessary dependencies, run
+To install necessary dependencies, run
 ```
 pip install -r requirements.txt
 ```
